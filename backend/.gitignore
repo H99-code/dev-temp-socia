@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+log.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+
+# Build output (falls verwendet, z. B. bei Babel/TypeScript)
+dist/
+build/
+
+# Optional: Test coverage
+coverage/
+
+# Optional: dotenv backup files
+.env.local
+.env.*.local
